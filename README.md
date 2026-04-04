@@ -64,7 +64,7 @@ For SQL only fixes, open a ticket; if a bug report exists for the bug, post on a
 
 License: GPL 2.0
 
-Read file [COPYING](COPYING).
+Read file [LICENSE](LICENSE).
 
 
 ## Authors &amp; Contributors
