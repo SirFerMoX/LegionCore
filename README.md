@@ -1,4 +1,4 @@
-# ![logo](https://github.com/user-attachments/assets/41dccd01-52f6-4b14-92e7-beaad676b547) TrinityCore (Legion 7.3.5_26972)
+# ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) TrinityCore (Legion 7.3.5_26972)
 
 
 
