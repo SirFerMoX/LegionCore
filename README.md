@@ -36,6 +36,12 @@ website at [TrinityCore.org](https://www.trinitycore.org).
 Software requirements are available in the [wiki](https://trinitycore.info/en/install/requirements) for
 Windows, Linux and macOS.
 
+Tested with:
+* [Visual Studio Community 2022](https://aka.ms/vs/17/release/vs_community.exe)
+* [MySQL Community Server 8.0.45](https://dev.mysql.com/downloads/mysql/8.0.html)
+* [CMake (newest version)](https://cmake.org/download/)
+* [Boost (1.84.0-14.3)](https://www.boost.org/releases/1.84.0/)
+* [OpenSSL (3.6.1)](https://slproweb.com/products/Win32OpenSSL.html)
 
 ## Install
 
